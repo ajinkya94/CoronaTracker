@@ -1,1 +1,3 @@
 # CoronaTracker
+
+![](main.png)
